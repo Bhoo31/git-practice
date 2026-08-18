@@ -1,1 +1,1 @@
-Book feature
+Photo feature added
