@@ -1,2 +1,1 @@
-Bhoomika M
-New Cloth
+This is a laptop
